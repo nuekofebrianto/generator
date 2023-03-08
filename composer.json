@@ -1,0 +1,8 @@
+{
+    "name": "eko/crud-be-generator",
+    "description": "generate file's for CRUD",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
